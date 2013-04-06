@@ -1,4 +1,4 @@
-latihan
+PESIMA
 =======
 
-Latihan menggunakan Git
+Persatuan
