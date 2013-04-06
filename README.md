@@ -1,0 +1,4 @@
+latihan
+=======
+
+Latihan menggunakan Git
